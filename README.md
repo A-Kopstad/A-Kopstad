@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🤍 My name is Alexandra, and I'm an aspiring frontend developer. 🖥
+<br>
+🤍 I'm currently studying at Noroff School of Technology and Digital Media 👩‍🎓
+<br>
+🤍 So far, I've come along way with HTML, CSS and JS, and I'm excited to learn more as I go. 🚂
